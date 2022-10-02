@@ -1,0 +1,75 @@
+p {
+  font-size: medium;
+  padding: 3px;
+}
+a {
+  font-size: 16px;
+  background-color: #010101;
+  padding: 0px 20px;
+}
+h1 {
+  font-size: 40px;
+  align-items: center;
+}
+h2,
+h3,
+h4 {
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.componentscode {
+  background-color: #7976769d;
+  border-radius: 12px;
+  width: 100%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+img {
+  margin: 23px;
+}
+.header p {
+  color: black;
+  font-size: 16px;
+  padding: 5px;
+}
+.HeaderHome {
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+.HeaderHome h1 {
+  display: flex;
+  justify-content: center;
+}
+.home {
+  align-items: center;
+}
+.headertext {
+  margin: 20px;
+}
+.header-ant-layout {
+  height: 74px;
+  padding: 0 50px;
+  color: rgba(0, 0, 0, 0.85);
+  line-height: 64px;
+  background: #146aba;
+}
+.container {
+  height: 70px;
+}
+.ant-layout-header {
+  height: 74px;
+  padding: 0 50px;
+  color: rgba(0, 0, 0, 0.85);
+  line-height: 64px;
+  background: #001529;
+}
+.Header {
+  height: 100px;
+}
