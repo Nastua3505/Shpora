@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shpora/static/css/main.364c19cd.css",
+    "main.js": "/Shpora/static/js/main.c9e2610a.js",
+    "static/js/787.a7c844fe.chunk.js": "/Shpora/static/js/787.a7c844fe.chunk.js",
+    "index.html": "/Shpora/index.html",
+    "main.364c19cd.css.map": "/Shpora/static/css/main.364c19cd.css.map",
+    "main.c9e2610a.js.map": "/Shpora/static/js/main.c9e2610a.js.map",
+    "787.a7c844fe.chunk.js.map": "/Shpora/static/js/787.a7c844fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364c19cd.css",
+    "static/js/main.c9e2610a.js"
+  ]
+}
